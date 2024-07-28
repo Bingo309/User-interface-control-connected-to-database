@@ -19,6 +19,7 @@ after pressing the direction , it will be safed in database
 we use the last input as if we only need the current input for controlling the robot
 ![image](https://github.com/user-attachments/assets/0b93b292-440f-414f-8d0f-d293023be78c)
 
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
